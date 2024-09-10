@@ -17,11 +17,11 @@ Uma Landing page responsiva e com elementos interativos.
 
 **Versão Desktop** 💻
 
-![Vídeo sem título ‐ Feito com o Clipchamp (1)](./src/video/desktop-view.mp4)
+[./src/video/desktop-view.mp4]
 
 **Versão Mobile** 📱
 
-![Vídeo sem título ‐ Feito com o Clipchamp (2)](./src/video/mobile-view.mp4)
+[./src/video/mobile-view.mp4]
 
 
 
