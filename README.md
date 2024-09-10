@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/209ab3b2-95f8-4a13-a0d5-7331e2e26636
 
 ## 🔗 Link para visualização do site
 
-
+- Link URL: https://crissouzadev.github.io/projeto-huddle-base/
 
 
 ## ✏️ Minha conclusão sobre o desafio
