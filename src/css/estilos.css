@@ -1,0 +1,96 @@
+html {
+    font-size: 62, 5%;
+}
+
+body {
+    background: url(../images/bg-desktop.svg) no-repeat hsl(257, 40%, 49%);
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.header .logo {
+    margin: 35px 80px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .illustration-mockups{
+    margin-left: 35px;
+}
+
+.container .info {
+    display: flex;
+    flex-direction: column;
+    margin: 0 40px;
+}
+
+.container .info h1 {
+    font-size: 3rem;
+    margin-bottom: 25px;
+    /* max-width: 600px; */
+}
+
+.container .info p {
+    font-size: 1.4rem;
+    font-weight: 100;
+    margin-bottom: 20px;
+    /* max-width: 650px; */
+}
+
+.container .info .btn {
+    background-color: #fff;
+    color: hsl(257, 40%, 49%);
+    align-self: flex-start;
+    border-radius: 50px;
+    padding: 15px 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size: 1rem;
+    font-weight: 400;
+    transition: 0.3s;
+}
+
+.container .info .btn:hover {
+    background-color: hsl(300, 69%, 71%);
+    color: #fff;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 40px;
+}
+
+.footer .social a {
+    width: 50px;
+    height: 50px;
+    background-color: hsl(257, 40%, 49%);
+    text-align: center;
+    font-size: 2rem;
+    display: inline-block;
+    border-radius: 50px;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #fff;
+    margin: 10px;
+    transition: 0.3s;
+}
+
+.footer .social a:hover {
+    border: 1px solid hsl(300, 69%, 71%);
+}
+
+.footer .social .icon {
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+    position: relative;
+}
+
+.footer .social .icon:hover {
+    color: hsl(300, 69%, 71%);
+}
