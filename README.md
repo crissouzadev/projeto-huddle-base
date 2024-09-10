@@ -17,12 +17,11 @@ Uma Landing page responsiva e com elementos interativos.
 
 **Versão Desktop** 💻
 
-[./src/video/desktop-view.mp4]
+https://github.com/user-attachments/assets/23e7e978-37f5-4dc0-bdd6-4c367dfa910f
 
 **Versão Mobile** 📱
 
-[./src/video/mobile-view.mp4]
-
+https://github.com/user-attachments/assets/209ab3b2-95f8-4a13-a0d5-7331e2e26636
 
 
 ## 🔗 Link para visualização do site
