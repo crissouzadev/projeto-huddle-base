@@ -35,14 +35,11 @@ https://github.com/user-attachments/assets/23e7e978-37f5-4dc0-bdd6-4c367dfa910f
 
 **Versão Mobile** 📱
 
-![Vídeo sem título ‐ Feito com o Clipchamp (2)](./src/video/mobile-view.mp4)
-
-
+https://github.com/user-attachments/assets/828526b4-f954-4a32-8de0-70292a75c1ae
 
 ## 🔗 Link para visualização do site
 
-
-
+https://cristian-souza.github.io/projeto-huddle-base/
 
 ## ✏️ Minha conclusão sobre o desafio
 
