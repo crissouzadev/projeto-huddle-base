@@ -7,6 +7,7 @@ body {
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
+    max-width: 1440px;
 }
 
 .header .logo {
@@ -20,7 +21,11 @@ body {
 }
 
 .container .illustration-mockups{
-    margin-left: 35px;
+    margin-left: 80px;
+}
+
+.container .illustration-mockups img {
+    width: 100%;
 }
 
 .container .info {
@@ -32,14 +37,14 @@ body {
 .container .info h1 {
     font-size: 3rem;
     margin-bottom: 25px;
-    /* max-width: 600px; */
+    max-width: 600px;
 }
 
 .container .info p {
     font-size: 1.4rem;
     font-weight: 100;
     margin-bottom: 20px;
-    /* max-width: 650px; */
+    max-width: 650px;
 }
 
 .container .info .btn {
@@ -47,7 +52,7 @@ body {
     color: hsl(257, 40%, 49%);
     align-self: flex-start;
     border-radius: 50px;
-    padding: 15px 50px;
+    padding: 10px 80px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     font-size: 1rem;
     font-weight: 400;
@@ -63,6 +68,10 @@ body {
     display: flex;
     justify-content: flex-end;
     padding-right: 40px;
+}
+
+.footer .social ul{
+    display: flex;
 }
 
 .footer .social a {
