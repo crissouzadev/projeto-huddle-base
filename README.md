@@ -1,4 +1,4 @@
-# 📄 Projeto: Landing NFT preview card component
+# 📄 Projeto: Huddle landing page
 
 ## Introdução
 
